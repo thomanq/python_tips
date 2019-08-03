@@ -276,7 +276,7 @@ t.absmethod() # TypeError: Can't instantiate abstract class TestClass with abstr
 * magic methods / dunder methods  
   [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
   [Common Use Magic](https://www.pythonsheets.com/notes/python-basic.html#common-use-magic)
-* `__new__` vs `__init__` magic method [[pysheeet](https://www.pythonsheets.com/notes/python-basic.html#new-init)]
+* `__new__` vs `__init__` magic method [[pysheeet](https://www.pythonsheets.com/notes/python-object.html#new-and-init)]
 * `__repr__` vs `__str__` [[StackOverflow](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python)] [[pysheeet](https://www.pythonsheets.com/notes/python-basic.html#representations-of-your-class-behave)]
 * `__getattr__` vs `__getattribute__` [[StackOverflow](https://stackoverflow.com/questions/3278077/difference-between-getattr-vs-getattribute)]
 * `__slots__` 
