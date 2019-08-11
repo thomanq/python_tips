@@ -183,6 +183,7 @@ for i, v in enumerate(['a','b','c', 'd'], 1):
 `__variable` 
 [The Meaning of Underscores in Python](https://dbader.org/blog/meaning-of-underscores-in-python)
 [Python's Class Development Toolkit](https://youtu.be/HTLu2DFOdTg?t=33m25s)
+[[StackOverflow](https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-a-single-and-a-double-underscore-before-an-object-name)]
 
 * `@classmethod` vs `@staticmethod` [[StackOverflow](https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python)]
 [[Python's Class Development Toolkit](https://youtu.be/HTLu2DFOdTg?t=23m44s)]
